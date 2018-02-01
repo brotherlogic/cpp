@@ -1,2 +1,3 @@
 # cpp
-C++ learning 
+
+C++ learning, using Accelerated C++.
