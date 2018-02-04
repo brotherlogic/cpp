@@ -17,3 +17,8 @@ cc_binary(
     name = "input",
     srcs = ["input.cc"],
 )
+
+cc_binary(
+    name = "longhello",
+    srcs = ["longhello.cc"],
+)
