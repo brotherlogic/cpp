@@ -5,6 +5,10 @@ sudo: required
 jdk:
   - oraclejdk8
 
+branches:
+  only:
+    - master
+
 addons:
   apt:
     sources:
